@@ -33,7 +33,7 @@ pypy3 cluster.py --num_shards=512 --num_slaves=256 --root_block_interval_sec=60 
 
 **Video URL**
 
-https://youtu.be/OCUJ2S3cNoc
+https://youtu.be/kayVvMWui50
 
 **Output From `stats` Tool**
 ```
